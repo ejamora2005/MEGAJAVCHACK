@@ -5,18 +5,18 @@ This system classifies eggs into 6 categories: XS, Small, Medium, Large, XL, Jum
 
 ---
 
-## 🚀 Features
+## Features
 
-- ⚡ Real-time egg detection and classification
-- ⚖️ Accurate weight measurement using HX711
-- 🤖 Automated sorting via servo gates
-- 📟 LCD display for egg type and final weight
-- 📡 ESP-NOW communication between controllers
-- 📊 Expandable for web dashboard monitoring
+- Real-time egg detection and classification
+- ccurate weight measurement using HX711
+- Automated sorting via servo gates
+- LCD display for egg type and final weight
+- ESP-NOW communication between controllers
+- Expandable for web dashboard monitoring
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 - ESP32 #1 → Weight detection (HX711 + LCD + flip servo)
 - ESP32 #2 → Sorting mechanism (6 servo gates)
@@ -45,7 +45,7 @@ This system classifies eggs into 6 categories: XS, Small, Medium, Large, XL, Jum
 
 ---
 
-## ⚖️ Egg Classification
+## Egg Classification
 
 | Type   | Weight Range |
 |--------|-------------|
@@ -58,7 +58,7 @@ This system classifies eggs into 6 categories: XS, Small, Medium, Large, XL, Jum
 
 ---
 
-## 🛠️ Build Steps
+## Build Steps
 
 1. Connect all components based on wiring table
 2. Upload code to ESP32 boards
@@ -68,7 +68,7 @@ This system classifies eggs into 6 categories: XS, Small, Medium, Large, XL, Jum
 
 ---
 
-## ⚙️ Calibration Procedure
+## Calibration Procedure
 
 1. Remove all weight from the load cell
 2. Power on system → wait for "TARE COMPLETE"
@@ -78,16 +78,28 @@ This system classifies eggs into 6 categories: XS, Small, Medium, Large, XL, Jum
 
 ---
 
-## 📸 System Preview
+## System Preview
 
 ![System](images/system_design.png)
 
 ---
 
-## 🧑‍💻 Developers
+## Developers
 
-MEGAJAVCHACK Team  
-Marrisa • Emil Jon • Grace • Akissah • JonhRogiel • Anna Mae • Vhan • Carms • Henre • Cristina Marie • Cristina • Karyl
+MEGAJAVCHACK Team 
+
+Amora, Emil Jon T. (Cute)
+Apilan, Akissah Beth E.
+Consuelo, Vhan Mariz S.
+Dublois, Cristina Marie G.
+Gula, Grace B.
+Guzon, Anna Mae A.
+Hernandez, Carmela B.
+Ruales, Marrisa L.
+Saludo, Henre Aidenry E.
+Tago-on, Cristina A.
+Tumanda, Jonh Rogiel M.
+Viure, Karyl G.
 
 ---
 
