@@ -88,18 +88,18 @@ This system classifies eggs into 6 categories: XS, Small, Medium, Large, XL, Jum
 
 MEGAJAVCHACK Team 
 
-Amora, Emil Jon T. (Cute)
-Apilan, Akissah Beth E.
-Consuelo, Vhan Mariz S.
-Dublois, Cristina Marie G.
-Gula, Grace B.
-Guzon, Anna Mae A.
-Hernandez, Carmela B.
-Ruales, Marrisa L.
-Saludo, Henre Aidenry E.
-Tago-on, Cristina A.
-Tumanda, Jonh Rogiel M.
-Viure, Karyl G.
+- Amora, Emil Jon T. (Cute)
+- Apilan, Akissah Beth E.
+- Consuelo, Vhan Mariz S.
+- Dublois, Cristina Marie G.
+- Gula, Grace B.
+- Guzon, Anna Mae A.
+- Hernandez, Carmela B.
+- Ruales, Marrisa L.
+- Saludo, Henre Aidenry E.
+- Tago-on, Cristina A.
+- Tumanda, Jonh Rogiel M.
+- Viure, Karyl G.
 
 ---
 
